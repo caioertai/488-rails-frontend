@@ -1,0 +1,9 @@
+.logo {
+  background-image: asset-url('logo.png');
+  // Becomes:
+  // background-image: url(/assets/logo-a946263da8c19e3e568656d375f15c775828ca564e946bf0f965e8855740c1ef.png);
+
+  background-size: cover;
+  height: 100px;
+  width: 250px;
+}
